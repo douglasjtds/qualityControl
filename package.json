@@ -1,0 +1,18 @@
+{
+  "name": "qualitycontrol",
+  "version": "1.0.0",
+  "description": "Quality Control system for restaurants and all food business for randomly choosing something in the menu to test and check the quality pattern.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "quality-control"
+  },
+  "author": "Douglas Tertuliano",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
